@@ -3,9 +3,15 @@
 - 🔭 I’m currently working on build tooling for Amazon & AWS.
 - 🌱 I’m currently learning programming languages as a hobby.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hiljusti&show_icons=true&theme=dark&locale=en&layout=compact" alt="hiljusti" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hiljusti&show_icons=true&theme=dark&locale=en" alt="hiljusti" /></p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hiljusti&show_icons=true&theme=dark&locale=en&layout=compact"
+       align="left"
+       alt="hiljusti" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=hiljusti&show_icons=true&theme=dark&locale=en"
+       align="center"
+       alt="hiljusti" />
+</p>
 
 <!--
 **hiljusti/hiljusti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
