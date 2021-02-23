@@ -1,7 +1,12 @@
 ### Greetings, fellow Earthling
 
-- 🔭 I’m currently working on build tooling for Amazon & AWS.
-- 🌱 I’m currently learning programming languages as a hobby.
+I'm a programming philologist; I love languages and love learning.
+
+Currently I'm:
+
+- 🏗 working on enterprise build tooling for Amazon & AWS
+- 👨‍💻 learning more programming languages
+- 🧙‍♂️ looking for projects to grow my technomancy skills
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hiljusti&show_icons=true&theme=dark&locale=en&layout=compact"
