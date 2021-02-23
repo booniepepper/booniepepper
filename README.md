@@ -1,4 +1,11 @@
-### Hi there 👋
+### Greetings, fellow Earthling
+
+- 🔭 I’m currently working on build tooling for Amazon & AWS.
+- 🌱 I’m currently learning programming languages as a hobby.
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hiljusti&show_icons=true&theme=dark&locale=en&layout=compact" alt="hiljusti" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hiljusti&show_icons=true&theme=dark&locale=en" alt="hiljusti" /></p>
 
 <!--
 **hiljusti/hiljusti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
