@@ -8,15 +8,9 @@ Currently I'm:
 - 👨‍💻 learning more programming languages
 - 🧙‍♂️ looking for projects to grow my technomancy skills
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hiljusti&show_icons=true&theme=dark&locale=en&layout=compact"
-       align="left"
-       alt="hiljusti" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=hiljusti&show_icons=true&theme=dark&locale=en"
-       align="center"
-       alt="hiljusti" />
-</p>
+
+![language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hiljusti&langs_count=50&layout=compact&theme=gruvbox&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=hiljusti&theme=gruvbox&show_icons=true)
 
 <!--
 **hiljusti/hiljusti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
