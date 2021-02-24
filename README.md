@@ -1,4 +1,4 @@
-### Håfa Adai!
+### 🇬🇺 Håfa Adai! 🏝
 
 I'm a programming philologist; I love languages and love learning.
 
