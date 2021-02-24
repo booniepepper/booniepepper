@@ -2,7 +2,7 @@
 
 I'm a programming philologist; I love languages and love learning.
 
-Born in Guam, now in Seattle. Loving my wife, baby girl, and puppy. Trying to follow Jesus as best I can. Depending on how you slice it, my highest level of formal education is either a 2003 GED or a 2011 award of completion for "Party Foods 011" from Renton Technical College. Worked lots of jobs ranging from security and construction (especially roofing) to realty and swing managing a McDonald's. I've been "in industry" as a software engineer since December of 2018. I also enjoy puzzles, knitting, crochet, origami, carpentry, traditional gaming, video games, and playing stringed instruments.
+Born in Guam, now in Seattle. Loving my wife, baby girl, and puppy. Trying to follow Jesus as best I can. Depending on how you slice it, my highest level of formal education is either a 2003 GED or a 2011 award of completion for "Party Foods 011" from Renton Technical College. I've worn a lot of hats since then, ranging from physical jobs like security and construction (especially roofing) to to more swing managing a McDonald's and real estate. "In industry" as a software engineer since December of 2018. I also enjoy puzzles, knitting, crochet, origami, carpentry, traditional gaming, video games, and playing stringed instruments.
 
 Currently I'm:
 
