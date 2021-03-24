@@ -28,3 +28,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I can be reached at:
+
+- hiljusti(at)pm.me for mostly everything
+- hiljusti(at)amazon.com for any Amazon or AWS projects I'm involved in
