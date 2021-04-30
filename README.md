@@ -2,7 +2,15 @@
 
 I'm a programming philologist; I love languages and love learning.
 
-Born in Guam, now in Seattle. Loving my wife, baby girl, and puppy. Trying to follow Jesus as best I can. Depending on how you slice it, my highest level of formal education is either a 2003 GED or a 2011 award of completion for "Party Foods 011" from Renton Technical College. I've worn a lot of hats since then, ranging from physical jobs like security and construction (especially roofing) to more swing managing a McDonald's and real estate. "In industry" as a software engineer since December of 2018. I also enjoy puzzles, knitting, crochet, origami, carpentry, traditional gaming, video games, and playing stringed instruments.
+Born in Guam, now in Seattle. Loving my wife, baby girl, and puppy. Trying to
+follow Jesus as best I can. Depending on how you slice it, my highest level of
+formal education is either a 2003 GED or a 2011 award of completion for "Party
+Foods 011" from Renton Technical College. I've worn a lot of hats since then,
+ranging from physical jobs like security and construction (especially roofing)
+to things like swing managing a McDonald's and brokering real estate
+transctions. I've been "in industry" as a software engineer since December of
+2018. I also enjoy puzzles, knitting, crochet, origami, carpentry, traditional
+gaming, video games, and playing stringed instruments.
 
 Currently I'm:
 
@@ -15,7 +23,8 @@ Currently I'm:
 ![github stats](https://github-readme-stats.vercel.app/api?username=hiljusti&theme=gruvbox&show_icons=true)
 
 <!--
-**hiljusti/hiljusti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**hiljusti/hiljusti** is a ✨ _special_ ✨ repository because its `README.md`
+(this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -33,3 +42,4 @@ I can be reached at:
 
 - hiljusti(at)pm.me for mostly everything
 - hiljusti(at)amazon.com for any Amazon or AWS projects I'm involved in
+
