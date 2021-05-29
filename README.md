@@ -18,25 +18,12 @@ Currently I'm:
 - 👨‍💻 learning more programming languages
 - 🧙‍♂️ looking for projects to grow my technomancy skills
 
-
 ![language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hiljusti&langs_count=50&layout=compact&theme=gruvbox&show_icons=true)
 ![github stats](https://github-readme-stats.vercel.app/api?username=hiljusti&theme=gruvbox&show_icons=true)
 
-<!--
-**hiljusti/hiljusti** is a ✨ _special_ ✨ repository because its `README.md`
-(this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![exercism](https://www.shields.io/badge/exercism-contributor-white)](https://exercism.io/profiles/hiljusti)
+[![codewars](https://www.codewars.com/users/hiljusti/badges/micro)](https://www.codewars.com/users/hiljusti)
+[![codingame](https://www.shields.io/badge/codingame-challenger-yellow)](https://www.codingame.com/profile/6d3505ec54f313b24ce201c6575a0d9c5101104)
 
 I can be reached at:
 
