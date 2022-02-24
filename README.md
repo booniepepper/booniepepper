@@ -1,16 +1,4 @@
-### 🇬🇺 Håfa Adai! 🏝
-
-I'm a programming philologist; I love languages and love learning.
-
-Born in Guam, now in Seattle. Loving my wife, baby girl, and puppy. Trying to
-follow Jesus as best I can. Depending on how you slice it, my highest level of
-formal education is either a 2003 GED or a 2011 award of completion for "Party
-Foods 011" from Renton Technical College. I've worn a lot of hats since then,
-ranging from physical jobs like security and construction (especially roofing)
-to things like swing managing a McDonald's and brokering real estate
-transctions. I've been "in industry" as a software engineer since December of
-2018. I also enjoy puzzles, knitting, crochet, origami, carpentry, traditional
-gaming, video games, and playing stringed instruments.
+🇬🇺 Håfa Adai! 🏝
 
 Currently I'm:
 
@@ -27,6 +15,6 @@ Currently I'm:
 
 I can be reached at:
 
-- hiljusti(at)pm.me for mostly everything
+- hiljusti(at)so.dang.cool for mostly everything
 - hiljusti(at)amazon.com for any Amazon or AWS projects I'm involved in
 
