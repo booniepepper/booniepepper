@@ -2,9 +2,11 @@
 
 Currently I'm:
 
-- 🏗 working on enterprise build tooling for Amazon & AWS
-- 👨‍💻 learning more programming languages
+- 🏗 working on the build infrastructure of Amazon & AWS
+- 👨‍💻 ~~learning~~ writing more programming languages
 - 🧙‍♂️ looking for projects to grow my technomancy skills
+
+_(Note: Thoughts and opinions in commits or conversations from this account are _mine_ and not my employer's, unless explicitly called out)_
 
 ![language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hiljusti&langs_count=50&layout=compact&theme=gruvbox&show_icons=true)
 ![github stats](https://github-readme-stats.vercel.app/api?username=hiljusti&theme=gruvbox&show_icons=true)
@@ -15,6 +17,5 @@ Currently I'm:
 
 I can be reached at:
 
-- hiljusti(at)so.dang.cool for mostly everything
-- hiljusti(at)amazon.com for any Amazon or AWS projects I'm involved in
-
+- hiljusti(at)so.dang.cool for most stuff here
+- hiljusti(at)amazon.com for Amazon or AWS projects I'm involved in
