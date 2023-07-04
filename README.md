@@ -2,9 +2,9 @@
 
 Currently I'm:
 
-- 🏗 working on the build infrastructure of Amazon & AWS
-- 👨‍💻 ~~learning~~ writing more programming languages
-- 🧙‍♂️ looking for projects to grow my technomancy skills
+- 🧙‍♂️ Seeking challenges to grow my technomancy skills
+- 🏗 ~~working on the build infrastructure of Amazon & AWS~~ _Looking for the next adventure_
+- 👨‍💻 ~~learning~~ _writing_ more programming languages
 
 _(Note: Thoughts and opinions in commits or conversations from this account are _mine_ and not my employer's, unless explicitly called out)_
 
