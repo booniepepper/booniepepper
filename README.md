@@ -15,7 +15,4 @@ _(Note: Thoughts and opinions in commits or conversations from this account are 
 [![codewars](https://www.codewars.com/users/hiljusti/badges/micro)](https://www.codewars.com/users/hiljusti)
 [![codingame](https://www.shields.io/badge/codingame-challenger-yellow)](https://www.codingame.com/profile/6d3505ec54f313b24ce201c6575a0d9c5101104)
 
-I can be reached at:
-
-- hiljusti(at)so.dang.cool for most stuff here
-- hiljusti(at)amazon.com for Amazon or AWS projects I'm involved in
+Among other places, you can reach me at justin(at)so.dang.cool
