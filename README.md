@@ -16,3 +16,7 @@ _(Note: Thoughts and opinions in commits or conversations from this account are 
 [![codingame](https://www.shields.io/badge/codingame-challenger-yellow)](https://www.codingame.com/profile/6d3505ec54f313b24ce201c6575a0d9c5101104)
 
 Among other places, you can reach me at justin(at)so.dang.cool
+
+---
+
+"Boonie Peppers" are a strain of bird's eye chilis that grow in the boonies in Guam.
