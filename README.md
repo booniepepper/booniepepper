@@ -8,11 +8,11 @@ Currently I'm:
 
 _(Note: Thoughts and opinions in commits or conversations from this account are _mine_ and not my employer's, unless explicitly called out)_
 
-![language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hiljusti&langs_count=50&layout=compact&theme=gruvbox&show_icons=true)
-![github stats](https://github-readme-stats.vercel.app/api?username=hiljusti&theme=gruvbox&show_icons=true)
+![language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=booniepepper&langs_count=50&layout=compact&theme=gruvbox&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=booniepepper&theme=gruvbox&show_icons=true)
 
-[![exercism](https://www.shields.io/badge/exercism-contributor-white)](https://exercism.org/profiles/hiljusti)
-[![codewars](https://www.codewars.com/users/hiljusti/badges/micro)](https://www.codewars.com/users/hiljusti)
+[![exercism](https://www.shields.io/badge/exercism-contributor-white)](https://exercism.org/profiles/booniepepper)
+[![codewars](https://www.codewars.com/users/booniepepper/badges/micro)](https://www.codewars.com/users/booniepepper)
 [![codingame](https://www.shields.io/badge/codingame-challenger-yellow)](https://www.codingame.com/profile/6d3505ec54f313b24ce201c6575a0d9c5101104)
 
 Among other places, you can reach me at justin(at)so.dang.cool
