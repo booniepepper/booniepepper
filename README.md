@@ -19,4 +19,4 @@ Among other places, you can reach me at justin(at)so.dang.cool
 
 ---
 
-"Boonie Peppers" are a strain of bird's eye chilis that grow in the boonies in Guam.
+"Boonie Peppers" are thin spicy chili peppers that grow in the boonies in Guam, where I was born. (Non-military family, although I did enlist in the USMC when I was 21)
