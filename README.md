@@ -1,19 +1,13 @@
 🇬🇺 Håfa Adai! 🏝
 
-Currently I'm:
+![language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=booniepepper&langs_count=50&layout=compact&theme=gruvbox&show_icons=true)
 
-- 🧙‍♂️ Seeking challenges to grow my technomancy skills
-- 🏗 ~~working on the build infrastructure of Amazon & AWS~~ _Looking for the next adventure_
-- 👨‍💻 ~~learning~~ _writing_ more programming languages
+[![itch.io games](https://www.shields.io/badge/itch.io-game_maker-blue)](https://booniepepper.itch.io/)
+[![exercism](https://www.shields.io/badge/exercism-track_maker-white)](https://exercism.org/profiles/booniepepper)
+[![codingame](https://www.shields.io/badge/codingame-code_clasher-yellow)](https://www.codingame.com/profile/6d3505ec54f313b24ce201c6575a0d9c5101104)
+[![codewars](https://www.codewars.com/users/booniepepper/badges/micro)](https://www.codewars.com/users/booniepepper)
 
 _(Note: Thoughts and opinions in commits or conversations from this account are _mine_ and not my employer's, unless explicitly called out)_
-
-![language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=booniepepper&langs_count=50&layout=compact&theme=gruvbox&show_icons=true)
-![github stats](https://github-readme-stats.vercel.app/api?username=booniepepper&theme=gruvbox&show_icons=true)
-
-[![itch.io games](https://www.shields.io/badge/itch.io-games)](https://booniepepper.itch.io/) [![exercism](https://www.shields.io/badge/exercism-contributor-white)](https://exercism.org/profiles/booniepepper)
-[![codewars](https://www.codewars.com/users/booniepepper/badges/micro)](https://www.codewars.com/users/booniepepper)
-[![codingame](https://www.shields.io/badge/codingame-challenger-yellow)](https://www.codingame.com/profile/6d3505ec54f313b24ce201c6575a0d9c5101104)
 
 Among other places, you can reach me at justin(at)so.dang.cool
 
