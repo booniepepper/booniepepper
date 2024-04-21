@@ -22,4 +22,4 @@ _(Note: Thoughts and opinions in commits or conversations from this account are 
 
 ---
 
-"Boonie Peppers" are thin spicy chili peppers that grow in the boonies in Guam, where I was born. (Non-military family, although I did enlist in the USMC when I was 21)
+"Boonie peppers" are donne (little hot peppers) that grow in the boonies in Guam.
