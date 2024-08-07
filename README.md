@@ -2,6 +2,8 @@
 
 Welcome to my polyglot programming adventures.
 
+I'm currently employed as a Principal Software Engineer at Furnished Finder. All ideas and opinions presented here are, of course, my own, and do not reflect my employer.
+
 My Website/Blog
 
 - https://so.dang.cool
