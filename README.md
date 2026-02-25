@@ -8,21 +8,26 @@ My Website/Blog
 
 - https://so.dang.cool
 
+I'm currently most interested in:
+
+- Software ecosystems, packaging, & distribution (Supply Chain)
+- Concatenative programming languages
+- Devices for children, especially Yoto, Toniebox, and IchigoJam
+- Text-based computing: terminal emulators, shells, and command-line utilities
+- Embedded engineering
+
+If you're interested in these things too, get in touch.
+
+- Matrix: @booniepepper:catlang.dev
+- Discord: booniepepper
+- Email: justin(at)so.dang.cool
+
 Some GitHub Organizations I own/maintain
 
 - https://github.com/so-dang-cool
 - https://github.com/sigi-cli
 - https://github.com/mise-plugins
 - https://github.com/concat-everywhere
-
-I'm currently most interested in:
-
-- Software supply chain technologies
-- Anything related to terminal emulators, shells, and command-line computing
-- Concatenative programming languages
-- Embedded engineering
-
-If you're interested in these things too, reach out to me as booniepepper on Discord, or justin(at)so.dang.cool by email.
 
 [![itch.io games](https://www.shields.io/badge/itch.io-game_maker-blue)](https://booniepepper.itch.io/)
 [![exercism](https://www.shields.io/badge/exercism-track_maker-white)](https://exercism.org/profiles/booniepepper)
@@ -35,4 +40,4 @@ _(Note: Thoughts and opinions in commits or conversations from this account are 
 
 ---
 
-"Boonie peppers" are donne (little hot peppers) that grow in the boonies in Guam.
+"Boonie peppers" are donne (little hot peppers) that grow wild in Guam.
