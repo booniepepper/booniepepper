@@ -34,7 +34,7 @@ Some GitHub Organizations I own/maintain
 [![codingame](https://www.shields.io/badge/codingame-code_clasher-yellow)](https://www.codingame.com/profile/6d3505ec54f313b24ce201c6575a0d9c5101104)
 [![codewars](https://www.codewars.com/users/booniepepper/badges/micro)](https://www.codewars.com/users/booniepepper)
 
-![language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=booniepepper&langs_count=50&layout=compact&theme=gruvbox&show_icons=true)
+![language stats](https://github-readme-stats.shion.dev/api/top-langs/?username=booniepepper&langs_count=50&layout=compact&theme=gruvbox&show_icons=true)
 
 _(Note: Thoughts and opinions in commits or conversations from this account are _mine_ and not my employer's, unless explicitly called out)_
 
